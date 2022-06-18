@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**qiwu575757/qiwu575757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, I’m @qiwu575757
 - 👀 I’m interested in System Construction
 - 🔭 I’m currently working on ...
@@ -13,4 +8,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
+
+<!--
+**qiwu575757/qiwu575757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
