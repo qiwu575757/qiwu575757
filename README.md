@@ -19,21 +19,20 @@
 
 
 
-
-
 #  🙋 About
 
 
 
 <div align="center">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
-<img src="https://img.shields.io/badge/Rust-%23239120.svg?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python" />
-<img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java" />
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />&emsp;
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />&emsp;
+<img src="https://img.shields.io/badge/Rust-%23239120.svg?style=flat-square&logo=rust&logoColor=white" />&emsp;
+<img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python" />&emsp;
+<img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java" />&emsp;
 </div>
 
 
+<br>
 
 - 👋 Hi, I’m @qiwu575757
 - 👀 I’m interested in System Construction
@@ -43,7 +42,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-
 
 
 # 🚀 Action 
