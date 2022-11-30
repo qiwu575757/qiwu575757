@@ -24,12 +24,12 @@
 
 #  🙋 About
 
-&emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Rust](https://img.shields.io/badge/Rust-%23239120.svg?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+
+​		![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+​		![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+​		![Rust](https://img.shields.io/badge/Rust-%23239120.svg?style=flat-square&logo=rust&logoColor=white)
+​		![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+​		![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 
 
 
@@ -46,11 +46,9 @@
 
 # 🚀 Action 
 
-<img src="https://github-readme-stats.vercel.app/api?username=qiwu575757&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=qiwu575757&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=qiwu575757&theme=dark&hide_border=true" alt="Streak Stats" width="500" />](https://github.com/DenverCoder1/github-readme-streak-stats)  
-
-
 
 <div style="width: fit-content; margin-left: auto; margin-right: auto;">
 <img src="https://api.githubtrends.io/user/svg/qiwu575757/langs?time_range=one_year&theme=dark" alt="Streak Stats" width="300"/>
