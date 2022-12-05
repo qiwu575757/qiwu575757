@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/AlfredYoung/Figurebed/main/img/Hi.gif" width="30px">, I'm Duck Wu</h1>
+<h1 align="center">Hi <img src="/home/qiwu/Downloads/1670062636586.png" width="30px">, I'm Duck Wu</h1>
  <p align="center"><br/>
 </p>
 
 <!-- 敲代码的图片 -->
 
-<div align="center" ><img order-radius="100px" src="https://raw.githubusercontent.com/AlfredYoung/Figurebed/main/img/202108300019556.gif"/></div>
+<div align="center" ><img order-radius="100px" src="/home/qiwu/Downloads/202108300019556.gif"/></div>
 
 <br>
 
@@ -59,7 +59,6 @@
 <img src="https://api.githubtrends.io/user/svg/qiwu575757/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark" alt="Streak Stats" width="300"/>
 <img src="https://api.githubtrends.io/user/svg/qiwu575757/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Most Contributed Repositories" width="300" />
     </div></div>
-
 
 
 
