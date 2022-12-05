@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="/home/qiwu/Downloads/1670062636586.png" width="30px">, I'm Duck Wu</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74811131/205656275-fd61267f-69d6-4bae-ba7e-8dabb6a7b395.png" width="30px">, I'm Duck Wu</h1>
  <p align="center"><br/>
 </p>
 
 <!-- 敲代码的图片 -->
 
-<div align="center" ><img order-radius="100px" src="/home/qiwu/Downloads/202108300019556.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/74811131/205656262-9da758f9-e8a0-46c7-badb-1bf53564cf02.gif"/></div>
 
 <br>
 
